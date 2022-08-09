@@ -7,4 +7,17 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="C:\Users\Charithasree\PycharmProjects\pythonclass" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="EPYTEXT" />
+    <option name="myDocStringFormat" value="Epytext" />
+  </component>
+  <component name="ReSTService">
+    <option name="DOC_DIR" value="C:\Users\Charithasree\PycharmProjects\pythonclass" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
 </module>
